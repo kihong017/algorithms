@@ -1,3 +1,1 @@
-# datastructure
-# algorithms
 # algorithms
