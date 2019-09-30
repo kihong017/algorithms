@@ -1,4 +1,4 @@
-package algorithms.algorithm.euclid;
+package algorithms.recursions.euclid;
 
 public class Euclid {
 	
